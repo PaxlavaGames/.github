@@ -1,10 +1,18 @@
-# Your organization name
+# Paxlava Games
 
-Organization short description
+We're BaklavaGames, passionate creators of open-source visual novels. Dive into teaching, travel, adventure, simulation, 
+and puzzles, as our games unfold stories that inspire and captivate. Join our community—where innovation meets inclusivity.
+Let's game together!
 
 ## Mission
 
-Organization mission
+At BaklavaGames, we craft captivating experiences through the art of game development. 
+Specializing in visual novels, our games invite you to explore the diverse realms of teaching,
+travel, adventure, simulation, and puzzles. 
+What sets us apart? We embrace openness—our games are not only creative ventures but also open source, 
+inviting users and contributors to join our vibrant community. Immerse yourself in the magic of storytelling, 
+learning, and discovery. Join us on this exciting journey, where every game is a new chapter waiting to be explored.
+🌟🕹️ #BaklavaGames #OpenSourceGaming
 
 ## All organization projects are free
 
@@ -15,7 +23,7 @@ possibilities.
 
 ## Features
 
-Bee free to check our [repositories](https://github.com/orgs/libresource/repositories) to find something useful 
+Bee free to check our [repositories](https://github.com/orgs/PaxlavaGames/repositories) to find something useful 
 and interesting.
 
 ## FAQ
