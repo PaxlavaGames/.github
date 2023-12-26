@@ -1,8 +1,6 @@
 # Paxlava Games
 
-We're BaklavaGames, passionate creators of open-source visual novels. Dive into teaching, travel, adventure, simulation, 
-and puzzles, as our games unfold stories that inspire and captivate. Join our community—where innovation meets inclusivity.
-Let's game together!
+Crafting open-source visual novels
 
 ## Mission
 
