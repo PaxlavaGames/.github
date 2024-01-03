@@ -4,13 +4,13 @@ Crafting open-source visual novels
 
 ## Mission
 
-At BaklavaGames, we craft captivating experiences through the art of game development. 
+At **PaxlavaGames**, we craft captivating experiences through the art of game development. 
 Specializing in visual novels, our games invite you to explore the diverse realms of teaching,
 travel, adventure, simulation, and puzzles. 
 What sets us apart? We embrace openness—our games are not only creative ventures but also open source, 
 inviting users and contributors to join our vibrant community. Immerse yourself in the magic of storytelling, 
 learning, and discovery. Join us on this exciting journey, where every game is a new chapter waiting to be explored.
-🌟🕹️ #BaklavaGames #OpenSourceGaming
+🌟🕹️ #PaxlavaGames #OpenSourceGaming
 
 ## All organization projects are free
 
