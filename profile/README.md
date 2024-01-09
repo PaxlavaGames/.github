@@ -1,5 +1,7 @@
 # Paxlava Games
 
+![PaxlavaGames logo](paxlava_preview_1280_640.png)
+
 Crafting open-source visual novels
 
 ## Mission
