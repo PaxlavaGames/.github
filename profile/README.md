@@ -1,6 +1,6 @@
 # Paxlava Games
 
-![PaxlavaGames logo](paxlava_preview_1280_640.png)
+![PaxlavaGames logo](https://github.com/PaxlavaGames/.github/blob/main/profile/paxlava_preview_1280_640.png)
 
 Crafting open-source visual novels
 
